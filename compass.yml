@@ -1,0 +1,16 @@
+name: proton-web-clients
+id: ari:cloud:compass:d080ee26-f21d-4730-84de-98c025104c05:component/e09ef9ad-8d69-4877-b0ee-7395c9ca13a3/9ecb04e2-a32f-43a4-962a-ba0ef36aac53
+description: Monorepo hosting the proton web clients
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/nqdev-group/proton-web-clients
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
